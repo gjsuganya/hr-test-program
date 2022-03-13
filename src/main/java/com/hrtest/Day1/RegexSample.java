@@ -1,4 +1,4 @@
-package Test;
+package com.hrtest.Day1;
 
 import java.util.Scanner;
 
